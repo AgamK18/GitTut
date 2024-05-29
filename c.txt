@@ -1,1 +1,3 @@
 Sbdjsan kkasn
+Git stash with msg
+Try #1
